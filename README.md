@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ␛Tuna</h1>
+<h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A passionate backend developer from Turkey 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunaegilmez&label=Profile%20views&color=0e75b6&style=flat" alt="tunaegilmez" /> </p>
